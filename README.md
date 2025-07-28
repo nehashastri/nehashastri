@@ -1,4 +1,4 @@
-#  Hi there, I'm Neha Shastri!
+#  👋 Hi there, I'm Neha Shastri!
 
 Welcome to my GitHub! I'm Neha—a data enthusiast driven by curiosity and creativity. With a background in **Computer Science & Engineering** and hands-on experience in **data science**, **machine learning**, and **cloud technologies**, I’m passionate about turning data into insights that solve real-world problems.
 
@@ -10,7 +10,7 @@ My goal is to work in **Data Analyst** or **Data Scientist** roles where I can b
 
 ## Technical Skills
 
-- **Programming**: Python (5+ yrs), SQL (3+ yrs)
+- 🌟 **Programming**: Python (5+ yrs), SQL (3+ yrs)
 - **Data Science & ML**: Pandas, NumPy, scikit-learn, XGBoost, NLP, LLMs, CNNs, Statsmodels, TensorFlow, Transformers, causal inference  
 - **Big Data & Cloud**: Hadoop, Apache Spark, AWS, GCP, Google BigQuery  
 - **Tools**: Tableau, Power BI, Git, Jupyter Notebooks, Excel
@@ -24,7 +24,7 @@ Outside the world of data:
 
 ---
 
-## 📫 How to Reach Me
+## How to Reach Me
 
 📧 **Email**: [nehags@bu.edu](mailto:nehags@bu.edu)  
 💼 **LinkedIn**: [linkedin.com/in/nehagshastri/](https://www.linkedin.com/in/nehagshastri/)
