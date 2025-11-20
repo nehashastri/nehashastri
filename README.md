@@ -1,10 +1,21 @@
 #  👋 Hi there, I'm Neha Shastri!
 
-Welcome to my GitHub! I'm Neha—a data enthusiast driven by curiosity and creativity. With a background in **Computer Science & Engineering** and hands-on experience in **data science**, **machine learning**, and **cloud technologies**, I’m passionate about turning data into insights that solve real-world problems.
+Welcome to my GitHub! I'm Neha—a data enthusiast and  applied AI/ML engineer who loves building things - LLM applications, RAG-style retrieval systems, automation workflows, and end-to-end deployable ML pipelines. With a background in **Computer Science & Engineering** and hands-on experience in **data science**, **machine learning**, and **cloud technologies**, I’m passionate about designing workflows, scaling data pipelines in Python, and turning messy data into intelligent, user-facing systems that solve real problems.
 
-Currently, I’m pursuing my **Master’s in Business Analytics** at BU Questrom, specializing in **Data & Methods**. I’m fortunate to be supported by the **Director’s Achievement Scholarship** and am actively engaged in case competitions and collaborative analytics projects.
+Currently, I’m pursuing my **Master’s in Business Analytics** at BU Questrom, specializing in **Data & Methods**, where I focus on applied machine learning, deep learning, NLP, and experimentation. I’m fortunate to be supported by the **Director’s Achievement Scholarship** and am actively engaged in case competitions and collaborative analytics projects. Most of my work sits at the intersection of Python, LLMs, Airflow, GCP, and scalable ML pipelines, always centered around creating reliable, deployable systems
 
-My goal is to work in **Data Analyst** or **Data Scientist** roles where I can blend technical knowledge with strategic thinking to drive business impact.
+**What I’m working on now:**
+- LLM-powered RAG pipelines (summarization, semantic search, retrieval, feature extraction)
+- Airflow + GCP + BigQuery ETL pipelines for credit-risk intelligence (daily records, idempotent DAGs, automated validation)
+
+**Things I’ve worked on before:**
+- Demand forecasting systems with Databricks Jobs + Streamlit dashboards
+- Real-time gaze detection using CNNs + MobileNet with >80% recall
+- NLP pipelines on 12K+ unstructured documents (Transformers, BERTopic, RoBERTa) — Top-5 MinneMUDAC finish
+- Large-scale PySpark processing (30GB dataset) for sentiment analysis and predictive modeling
+- Survey experiments and A/B testing with t-tests, regression-based inference, and cohort analysis
+
+I love roles where I can experiment, automate, and build cool things - whether it’s running controlled experiments, designing ML-powered features, or creating intelligent workflows with LLMs. If you're working in the space of experimentation, applied ML, AI systems, or data-driven automation, I’d be happy to connect.
 
 ---
 
