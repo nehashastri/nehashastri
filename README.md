@@ -8,13 +8,6 @@ Currently, I’m pursuing my **Master’s in Business Analytics** at BU Questrom
 - LLM-powered RAG pipelines (summarization, semantic search, retrieval, feature extraction)
 - Airflow + GCP + BigQuery ETL pipelines for credit-risk intelligence (daily records, idempotent DAGs, automated validation)
 
-**Things I’ve worked on before:**
-- Demand forecasting systems with Databricks Jobs + Streamlit dashboards
-- Real-time gaze detection using CNNs + MobileNet with >80% recall
-- NLP pipelines on 12K+ unstructured documents (Transformers, BERTopic, RoBERTa) — Top-5 MinneMUDAC finish
-- Large-scale PySpark processing (30GB dataset) for sentiment analysis and predictive modeling
-- Survey experiments and A/B testing with t-tests, regression-based inference, and cohort analysis
-
 I love roles where I can experiment, automate, and build cool things - whether it’s running controlled experiments, designing ML-powered features, or creating intelligent workflows with LLMs. If you're working in the space of experimentation, applied ML, AI systems, or data-driven automation, I’d be happy to connect.
 
 ---
