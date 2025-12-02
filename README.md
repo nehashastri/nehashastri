@@ -14,9 +14,11 @@ I love roles where I can experiment, automate, and build cool things - whether i
 
 ## Technical Skills
 
-- 🌟 **Programming**: Python (5+ yrs), SQL (3+ yrs)
-- **Data Science & ML**: Pandas, NumPy, scikit-learn, XGBoost, NLP, LLMs, CNNs, Statsmodels, TensorFlow, Transformers, causal inference  
-- **Big Data & Cloud**: Hadoop, Apache Spark, AWS, GCP, Google BigQuery  
+- 🌟 **Programming**: Python (Pandas, Scikit-learn, TensorFlow, PyTorch, Statsmodels, HuggingFace), SQL, Git
+- **ML & Product Analytics:** A/B Testing, Causal Inference, Experimentation Design, Customer Segmentation, Churn Prediction, Recommender Systems
+- **LLM & GenAI:** Transformers, BERT, RoBERTa, Prompt Engineering, Fine-tuning, Retrieval-Augmented Generation (RAG), LangChain
+- **Big Data & Cloud**: Hadoop, Apache Spark, AWS, GCP, Google BigQuery
+- **Production & Monitoring:** MLflow, Model A/B Testing, Feature Stores, Data Validation, Pipeline Orchestration (Airflow, Prefect)
 - **Tools**: Tableau, Power BI, Git, Jupyter Notebooks, Excel
 
 ---
